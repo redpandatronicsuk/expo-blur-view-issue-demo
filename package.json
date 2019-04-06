@@ -6,6 +6,7 @@
     "test": "jest"
   },
   "dependencies": {
+    "expo-av": "^4.1.0",
     "expo-blur": "^4.0.0",
     "react": "16.6.3",
     "react-native": "0.58.6",
