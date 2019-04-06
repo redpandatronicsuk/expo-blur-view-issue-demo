@@ -14,3 +14,11 @@ to
 ```
 NSArray<id<RCTBridgeModule>> *extraModules = [_moduleRegistryAdapter extraModulesForBridge:bridge andExperience:@"FOO"];
 ```
+And add
+```
+<key>UIBackgroundModes</key>
+<array>
+    <string>audio</string>
+</array>
+```
+to `<dict> section` in `Info.plist`.
