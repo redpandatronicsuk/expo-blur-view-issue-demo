@@ -21,4 +21,4 @@ And add
     <string>audio</string>
 </array>
 ```
-to `<dict> section` in `Info.plist`.
+to `<dict>` section in `Info.plist`.
